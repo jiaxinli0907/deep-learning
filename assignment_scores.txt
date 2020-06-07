@@ -1,0 +1,14 @@
+1st assignment: 25/25 pt
+
+2nd assignment: 15/15 pt
+
+3rd assignment: 15/15 pt
+
+4th assignment: 15/15 pt
+
+5th assignment: 36/38 pt
+Comment: there must be something wrong in your implementation, as SGD plus momentum should be better than SGD. Eventually, your performance is worse than 50%. So I deduct 2 pt. 
+
+
+6th assignment: 27/27 pt
+
